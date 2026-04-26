@@ -86,6 +86,6 @@ A dynamically generated callout box that surfaces data-driven findings from the 
 ---
 
 **Lil Benedict Herrera**
-BS Information Systems — Business Analytics
+BS Information Systems — 
 West Visayas State University · Iloilo City, Philippines
 CIS 220 — Business Analytics · 2026

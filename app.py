@@ -238,7 +238,7 @@ if show_with_gross_only:
 st.markdown(
     "<h1 style='font-family:Playfair Display,serif;font-size:2.6rem;font-weight:700;"
     "color:#E8C87A;margin-bottom:0;letter-spacing:0.03em;'>🎬 CineMetrics</h1>"
-    "<p style='color:#666;font-size:0.8rem;letter-spacing:0.14em;margin-top:4px;'>IMDB FILM ANALYTICS · TOP-RATED CINEMA · INTERACTIVE DASHBOARD</p>",
+    "<p style='color:#666;font-size:0.8rem;letter-spacing:0.14em;margin-top:4px;'>IMDB FILM ANALYTICS · TOP-RATED CINEMA ·</p>",
     unsafe_allow_html=True,
 )
 st.markdown("<hr style='border-color:#1E1E1E;margin:12px 0 24px 0;'>", unsafe_allow_html=True)
